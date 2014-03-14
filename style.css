@@ -1,0 +1,76 @@
+body{
+	height: 625px;
+	margin: 0;	
+	font-family: "Lucida Sans Unicode", "Lucida Grande",
+	sans-serif	
+}
+
+
+
+h1 {
+	font-size: 1em;
+	color: #FFFFFF;
+	margin-top: 1em;
+	margin-bottom: 1em;
+	margin-right: 20px;
+	margin-left: 20px;
+}
+
+.container{
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 1200px;
+}
+
+.logo{
+	width: 317px;
+	height: 102px;
+}
+
+
+a{ 
+	color: #226775;
+}
+
+a:hover{ 
+	color: red;
+}
+
+.header{ background-color: #FFFFFF;
+		padding: 0em;
+		text-align: center;
+}
+.kitty{
+	float: left;
+	margin: 26px;
+
+}
+.main{
+	font-size: 18px;
+	margin-left: 10px;
+	margin-right: 10px;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	padding: 2em;
+	background-color: #C8F7F4;
+	border: 3px solid black;
+	width: 55%;
+}
+
+.sidebar{
+	position: absolute;
+	right:50px;
+	top: 189px;
+	border: 10px solid black;
+	height: 500px;
+	width: 25%;
+
+}
+
+.footer{
+	height:80px;
+	margin: 0px;
+	background-color: blue;
+
+}
