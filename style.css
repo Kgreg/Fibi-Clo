@@ -13,18 +13,26 @@ ul{
 	display: inline-block;
 	text-align: center;
 	padding: inherit;
-	
+}
+.firstUL{
+	margin: 15px;
+}
+
+.secoundUL{
+	margin: 15px;
 }
 
 li{
 	display: inline-block;
 	margin: 5px;
+	padding: 0 10px;
 }
 
 .navbar{
 	background-color: white;
 	margin:0 auto;
 	text-align: center;
+	padding-top: 15px;
 }
 
 #logo{
