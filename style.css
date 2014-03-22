@@ -33,6 +33,7 @@ li{
 	margin:0 auto;
 	text-align: center;
 	padding-top: 15px;
+	padding-bottom: 15px;
 }
 
 #logo{
@@ -73,32 +74,25 @@ a:hover{
 		padding: 0px;
 		text-align: center;
 }
-.kitty{
-	float: left;
-	margin: 26px;
 
-}
 .main{
-	font-size: 18px;
-	margin-left: 10px;
-	margin-right: 10px;
-	margin-top: 32px;
-	margin-bottom: 32px;
-	padding: 2px;
-	background-color: blue;
-	border: 3px solid black;
-	width: 55%;
+	
 }
 
-.sidebar{
-	position: absolute;
-	right:50px;
-	top: 189px;
-	border: 10px solid black;
-	height: 500px;
-	width: 25%;
+.section2{
+	background-color: white;
+}
+
+.s2p1-text{
+	font-size: 35px;
+}
+
+.buttonlinksection2{
+	border: solid 1px black;
+	padding: 5 10px;
 
 }
+
 
 .footer{
 	height:80px;
