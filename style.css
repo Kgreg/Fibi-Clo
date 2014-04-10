@@ -83,20 +83,43 @@ a:hover{
 	background-color: white;
 }
 
+.section2-part2{
+	width: 48%;
+	float:right; 
+}
+
+.ZaraSandals{
+	width: 300px;
+	height: 400px;
+}
+
+
 .s2p1-text{
 	font-size: 35px;
+}
+
+
+.s2contents{
+	width:75%;
+	background-color: blue;
+	margin: 0 auto;
+
+}
+
+.section2-part1{
+	width:48%;
+	float:left;
 }
 
 a.buttonlinksection2{
 	border: solid 1px black;
 	padding: 5 10px;
-
 }
 
 
 .footer{
 	height:80px;
 	margin: 0px;
-	background-color: blue;
+	background-color: black;
 
 }
