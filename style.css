@@ -89,19 +89,19 @@ a:hover{
 }
 
 .ZaraSandals{
-	width: 300px;
+	width: 400px;
 	height: 400px;
 }
 
 
 .s2p1-text{
 	font-size: 35px;
+	text-align: center;
 }
 
 
 .s2contents{
 	width:75%;
-	background-color: blue;
 	margin: 0 auto;
 
 }
@@ -109,11 +109,19 @@ a:hover{
 .section2-part1{
 	width:48%;
 	float:left;
+	margin:0 auto;
+	text-align: center;
+	padding-top: 32px;
 }
 
 a.buttonlinksection2{
-	border: solid 1px black;
-	padding: 5 10px;
+	border: solid 3px black;
+	padding: 5px 10px;
+	text-align: center;
+	color: black;
+	margin: 0 auto;
+	text-decoration: none;
+
 }
 
 
